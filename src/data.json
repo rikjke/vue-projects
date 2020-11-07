@@ -1,0 +1,117 @@
+[
+    {
+        "playlist-src": "ttdm",
+        "playlist": "Tickets To My Downfall",
+        "artist": "Machine Gun Kelly",
+        "index" : "0",
+        "playlistCover" : "ttdm-cover.jpg",
+        "songs": [
+            {
+                "id": "1",
+                "src": "title-track.mp3",
+                "title": "Title Track"
+            },
+            {
+                "id": "2",
+                "src": "kiss-kiss.mp3",
+                "title": "Kiss Kiss"
+            },
+            {
+                "id": "3",
+                "src": "drunk-face.mp3",
+                "title": "Drunk Face"
+            },
+            {
+                "id": "4",
+                "src": "bloody-valentine.mp3",
+                "title": "Bloody Valentine"
+            },
+            {
+                "id": "5",
+                "src": "forget-me-too.mp3",
+                "title": "Forget Me Too"
+            },
+            {
+                "id": "6",
+                "src": "all-i-know.mp3",
+                "title": "All I Know"
+            },
+            {
+                "id": "7",
+                "src": "lonely.mp3",
+                "title": "Lonely"
+            },
+            {
+                "id": "8",
+                "src": "WWIII.mp3",
+                "title": "WWIII"
+            },
+            {
+                "id": "9",
+                "src": "kevin-and-barracuda.mp3",
+                "title": "Kevin & Barracuda"
+            },
+            {
+                "id": "10",
+                "src": "concert-for-aliens.mp3",
+                "title": "Concert For Aliens"
+            },
+            {
+                "id": "11",
+                "src": "my-exs-best-friend.mp3",
+                "title": "My Ex's Best Friend"
+            },
+            {
+                "id": "12",
+                "src": "jawbreaker.mp3",
+                "title": "Jawbreaker"
+            },
+            {
+                "id": "13",
+                "src": "nothing-inside.mp3",
+                "title": "Nothing Inside"
+            },
+            {
+                "id": "14",
+                "src": "banyan-tree.mp3",
+                "title": "Banyan Tree"
+            },
+            {
+                "id": "15",
+                "src": "play-this-when-im-gone.mp3",
+                "title": "Play This When I'm Gone"
+            },
+            {
+                "id": "16",
+                "src": "body-bag.mp3",
+                "title": "Body Bag"
+            },
+            {
+                "id": "17",
+                "src": "hangover-cure.mp3",
+                "title": "Hangover Cure"
+            },
+            {
+                "id": "18",
+                "src": "split-a-pill.mp3",
+                "title": "Split a Pill"
+            },
+            {
+                "id": "19",
+                "src": "cant-look-back.mp3",
+                "title": "Can't Look Back"
+            },
+            {
+                "id": "20",
+                "src": "misery-business.mp3",
+                "title": "Misery Business"
+            },
+            {
+                "id": "21",
+                "src": "bloody-valentine-acoustic.mp3",
+                "title": "Bloody Valentine Acoustic"
+            }
+        ]
+
+    }
+]
