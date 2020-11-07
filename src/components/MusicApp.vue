@@ -6,7 +6,7 @@
                 <div class="playlist-cover">
                     <img v-if="playlistCover != 'undefined'" :src="playlistCover" alt="Playlist Cover">
                     <div class="playlist-description">
-                        <h2 class="song-artist">{{current.artist}}</h2>
+                        <h2 class="song-artist">{{data[playlistIndex].artist}}</h2>
                         <h2 class="song-title">{{current.title}}</h2>
                         <div v-if="isPlaying" class="music-gif"><img :src="notes" alt="Music Notes"></div>
                     </div>
@@ -36,7 +36,7 @@
             </div>
 
             <div class="playlist">
-                <h3>{{current.playlist}}</h3>
+                <h3>{{data[playlistIndex].playlist}}</h3>
                 <div v-for="song in data[0].songs" :key="song.id" class="song-container">
 
                     <button @click="play(song)"
@@ -79,6 +79,7 @@ export default {
         console.log(this.data[0].playlistCover)
         console.log(this.playlistCover)
         this.playlistCover = require(`../assets/${this.data[0].playlistCover}`)
+        console.log(this.current)
         // this.playlistCover = require(this.data[0].playlistCover)
     },
 
